@@ -14,7 +14,7 @@ if GEMINI_API_KEY == "GEMINI_API_KEY" or not GEMINI_API_KEY:
     st.stop()
 
 # ------------------ CONFIGURE GEMINI ------------------ #
-genai.configure(api_key="AIzaSyAdR66XdiM1a2HXGH8EOmlOvM6_p96hzUE")
+genai.configure(api_key="AIzaSyDDZ3UXz9g2TWvWMetJ4677ZHSdV6LKNpg")
 
 # Use a fast free model
 model = genai.GenerativeModel("models/gemini-2.0-flash")
