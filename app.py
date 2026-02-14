@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 
 # ------------------ GEMINI API KEY (PASTE HERE) ------------------ #
-GEMINI_API_KEY= os.getenv("GEMINI_API_KEY")# Example: AIzaSy....
+GEMINI_API_KEY= "AIzaSyAhkgS36bzd8B5H0-yxeMGcB7XG5hgDwKc"# Example: AIzaSy....
 
 
 # ------------------ CHECK KEY ------------------ #
